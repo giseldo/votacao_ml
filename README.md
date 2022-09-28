@@ -39,7 +39,7 @@ Vamos explorar dados sobre as votações que candidatos à Câmara Federal de De
 
 ## Resposta
 
-Segue o R2 e o RMSE dos modelos construídos.
+Segue o RMSE dos modelos construídos.
 
 ![Resultado](resultado.png)
 
