@@ -49,8 +49,6 @@ O modelo seleciondo foi o RandomForestRegressor, levando em consideração o RMS
 
 ![MAE](mae.png)
 
-O modelo final escolhido foi o O modelo seleciondo foi o RandomForestRegressor.
-
 Uma predição com dados de 2014 foi gerado a partir do modelo construído
 
 ![Resultado](predicao.png)
